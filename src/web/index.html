@@ -1,0 +1,184 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head lang="en">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Car Trade</title>
+    <script src="CarTrade.Global.Utilities.js" type="text/javascript"> </script>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+   <link href="css/styles.min.css" rel="stylesheet">
+  </head>
+<body id="page-top">
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top"><h1 class="w3lslogo"><a href="index.html">CT <span style="padding-left:15px;">Sittardia</span></a></h1></a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="#brands">Brands</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="#contact">Car</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <header class="masthead text-center text-white d-flex">
+        <div class="container my-auto">
+            <div class="row">
+
+                <div class="col-lg-10 mx-auto">
+                    <h3 class="text-uppercase" style="color:#212529">
+                        <strong>YOUR FAVORITE DESTINATION FOR CAR TRADE</strong>
+                    </h3>
+                    <hr>
+                </div>
+                <div class="col-lg-8 mx-auto">
+                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Buy / Sell Car</a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section class="bg-primary" id="brands">
+        <div class="container">
+            <h2 class="section-heading text-white">List of Leading Brands Partner with Us</h2><br />
+            <div class="row" id="brandsList">
+
+
+            </div>
+
+        </div>
+    </section>
+    <section id="contact">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-12" id="listOfCarsInBrand">
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <section id="createCarForm" style="display:none;">
+        <div class="container">
+           <div id="registerCarHeading"></div>
+            <form class="form-horizontal" id="newCarForm" action="http://localhost:52858/WebUI/" method="POST" accept-charset="UTF-8">
+                <div class="form-group" style="display:none;">
+                    <label class="control-label col-sm-2" for="BrandID">BrandID:</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="BrandID" placeholder="" name="BrandID">
+                    </div>
+                </div>
+                <div class="form-group" style="display:none;">
+                    <label class="control-label col-sm-2" for="CarID">CarID:</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="CarID" placeholder="" name="CarID">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-sm-2" for="modelName">ModelName:</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="modelName" placeholder="" name="modelName">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-sm-2" for="modelYear">ModelYear:</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="modelYear" placeholder="" name="modelYear">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-sm-2" for="fuelType">FuelType:</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="fuelType" placeholder="" name="fuelType">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-sm-2" for="aspiration">Aspiration:</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="aspiration" placeholder="" name="aspiration">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-sm-2" for="bodyStyle">BodyStyle:</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="bodyStyle" placeholder="" name="bodyStyle">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-sm-2" for="driveWheels">DriveWheels:</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="driveWheels" placeholder="" name="driveWheels">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-sm-2" for="wheelBase">WheelBase:</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="wheelBase" placeholder="" name="wheelBase">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-sm-2" for="length">Length:</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="length" placeholder="" name="length">
+                    </div>
+                </div>
+                <div class="form-group">
+                <label class="control-label col-sm-2" for="height">Height:</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="height" placeholder="" name="height">
+                </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-sm-2" for="CityMilleage">CityMilleage:</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="CityMilleage" placeholder="" name="CityMilleage">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-sm-2" for="Price">Price:</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="Price" placeholder="" name="Price">
+                    </div>
+                </div>
+           <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+                <button type="submit" class="btn btn-primary" onclick="CreateCar();">ADD CAR</button>
+            </div>
+        </div>
+        </form>
+            <h4><span class="label label-success" id="successInfo" style="display:none;">Car added Successfully</span></h4>
+        </div>
+    </section>
+    <script>
+        $CARTRADE('#brandsList').PaintBrands();
+    </script>
+    <!-- Bootstrap core JavaScript -->
+
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="js/creative.min.js"></script>
+</body>
+</html>
