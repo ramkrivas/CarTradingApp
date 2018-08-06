@@ -1,0 +1,11 @@
+C:\TEMP\Demo.CarTrade\Demo.CarTrade.Entity\bin\Debug\Demo.CarTrade.Entity.dll
+C:\TEMP\Demo.CarTrade\Demo.CarTrade.Entity\bin\Debug\Demo.CarTrade.Entity.pdb
+C:\TEMP\Demo.CarTrade\Demo.CarTrade.Entity\obj\Debug\Demo.CarTrade.Entity.csproj.CoreCompileInputs.cache
+C:\TEMP\Demo.CarTrade\Demo.CarTrade.Entity\obj\Debug\Demo.CarTrade.Entity.dll
+C:\TEMP\Demo.CarTrade\Demo.CarTrade.Entity\obj\Debug\Demo.CarTrade.Entity.pdb
+C:\TEMP\Demo.CarTrade\Demo.CarTrade.Entity\obj\Debug\Demo.CarTrade.Entity.csprojResolveAssemblyReference.cache
+C:\backup\Demo.CarTrade\Demo.CarTrade.Entity\bin\Debug\Demo.CarTrade.Entity.dll
+C:\backup\Demo.CarTrade\Demo.CarTrade.Entity\bin\Debug\Demo.CarTrade.Entity.pdb
+C:\backup\Demo.CarTrade\Demo.CarTrade.Entity\obj\Debug\Demo.CarTrade.Entity.csproj.CoreCompileInputs.cache
+C:\backup\Demo.CarTrade\Demo.CarTrade.Entity\obj\Debug\Demo.CarTrade.Entity.dll
+C:\backup\Demo.CarTrade\Demo.CarTrade.Entity\obj\Debug\Demo.CarTrade.Entity.pdb

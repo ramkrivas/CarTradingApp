@@ -1,0 +1,8 @@
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Interfaces\bin\Debug\Sittardia.CarTrade.Interfaces.dll
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Interfaces\bin\Debug\Sittardia.CarTrade.Interfaces.pdb
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Interfaces\obj\Debug\Sittardia.CarTrade.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Interfaces\obj\Debug\Sittardia.CarTrade.Interfaces.dll
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Interfaces\obj\Debug\Sittardia.CarTrade.Interfaces.pdb
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Interfaces\obj\Debug\Sittardia.CarTrade.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Interfaces\bin\Debug\Sittardia.CarTrade.Entity.dll
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Interfaces\bin\Debug\Sittardia.CarTrade.Entity.pdb

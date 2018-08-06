@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4756101c-aee0-4be1-99f4-d5ed2f31c88f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:52918/CarManagementService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CarManagementService.disco" MetadataType="Disco" ID="3b1e37c4-efa1-4499-8d66-cd650802a355" SourceId="1" SourceUrl="http://localhost:52918/CarManagementService.svc?disco" />
+    <MetadataFile FileName="CarManagementService.wsdl" MetadataType="Wsdl" ID="d9233dc8-75b5-4add-83a3-3fb95e1d0eff" SourceId="1" SourceUrl="http://localhost:52918/CarManagementService.svc?wsdl" />
+    <MetadataFile FileName="CarManagementService.xsd" MetadataType="Schema" ID="84ee6d38-e2da-4970-9df6-685ea830eb60" SourceId="1" SourceUrl="http://localhost:52918/CarManagementService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CarManagementService2.xsd" MetadataType="Schema" ID="8f1ccd09-8275-4904-9906-917fa5866112" SourceId="1" SourceUrl="http://localhost:52918/CarManagementService.svc?xsd=xsd2" />
+    <MetadataFile FileName="CarManagementService1.xsd" MetadataType="Schema" ID="65381c2e-2bdd-45eb-86f0-19c9f0838a20" SourceId="1" SourceUrl="http://localhost:52918/CarManagementService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

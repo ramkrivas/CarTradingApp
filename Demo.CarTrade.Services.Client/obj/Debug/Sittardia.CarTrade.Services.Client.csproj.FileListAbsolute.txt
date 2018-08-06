@@ -1,0 +1,11 @@
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Services.Client\bin\Debug\Sittardia.CarTrade.Services.Client.dll.config
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Services.Client\bin\Debug\Sittardia.CarTrade.Services.Client.dll
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Services.Client\bin\Debug\Sittardia.CarTrade.Services.Client.pdb
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Services.Client\bin\Debug\Sittardia.CarTrade.Interfaces.dll
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Services.Client\bin\Debug\Sittardia.CarTrade.Interfaces.pdb
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Services.Client\obj\Debug\Sittardia.CarTrade.Services.Client.csproj.CoreCompileInputs.cache
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Services.Client\obj\Debug\Sittardia.CarTrade.Services.Client.dll
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Services.Client\obj\Debug\Sittardia.CarTrade.Services.Client.pdb
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Services.Client\bin\Debug\Sittardia.CarTrade.Entity.dll
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Services.Client\bin\Debug\Sittardia.CarTrade.Entity.pdb
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Services.Client\obj\Debug\Sittardia.CarTrade.Services.Client.csprojResolveAssemblyReference.cache

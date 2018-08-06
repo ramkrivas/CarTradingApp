@@ -1,0 +1,5 @@
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Entity\bin\Debug\Sittardia.CarTrade.Entity.dll
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Entity\bin\Debug\Sittardia.CarTrade.Entity.pdb
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Entity\obj\Debug\Sittardia.CarTrade.Entity.csproj.CoreCompileInputs.cache
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Entity\obj\Debug\Sittardia.CarTrade.Entity.dll
+C:\Users\E534930\source\repos\Sittardia.CarTrade\Sittardia.CarTrade.Entity\obj\Debug\Sittardia.CarTrade.Entity.pdb

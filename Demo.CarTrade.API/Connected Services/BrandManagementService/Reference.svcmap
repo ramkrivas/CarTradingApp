@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ab9f290f-cda2-4f3b-ad1a-20dfaebcdfa0" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:52918/BrandManagementService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BrandManagementService.wsdl" MetadataType="Wsdl" ID="f59b38e5-77ba-4ff4-be61-5bc08fcbd24e" SourceId="1" SourceUrl="http://localhost:52918/BrandManagementService.svc?wsdl" />
+    <MetadataFile FileName="BrandManagementService.disco" MetadataType="Disco" ID="9364277d-66c6-4191-829e-e0a76ec714f1" SourceId="1" SourceUrl="http://localhost:52918/BrandManagementService.svc?disco" />
+    <MetadataFile FileName="BrandManagementService.xsd" MetadataType="Schema" ID="0d87babd-da23-4ecf-99ef-7ad364803505" SourceId="1" SourceUrl="http://localhost:52918/BrandManagementService.svc?xsd=xsd1" />
+    <MetadataFile FileName="BrandManagementService1.xsd" MetadataType="Schema" ID="2b3c1d17-b4b9-4381-9c33-3dc77191872c" SourceId="1" SourceUrl="http://localhost:52918/BrandManagementService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

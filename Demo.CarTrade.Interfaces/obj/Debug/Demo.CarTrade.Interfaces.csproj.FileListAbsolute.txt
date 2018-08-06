@@ -1,0 +1,16 @@
+C:\TEMP\Demo.CarTrade\Demo.CarTrade.Interfaces\bin\Debug\Demo.CarTrade.Interfaces.dll
+C:\TEMP\Demo.CarTrade\Demo.CarTrade.Interfaces\bin\Debug\Demo.CarTrade.Interfaces.pdb
+C:\TEMP\Demo.CarTrade\Demo.CarTrade.Interfaces\bin\Debug\Demo.CarTrade.Entity.dll
+C:\TEMP\Demo.CarTrade\Demo.CarTrade.Interfaces\bin\Debug\Demo.CarTrade.Entity.pdb
+C:\TEMP\Demo.CarTrade\Demo.CarTrade.Interfaces\obj\Debug\Demo.CarTrade.Interfaces.csprojResolveAssemblyReference.cache
+C:\TEMP\Demo.CarTrade\Demo.CarTrade.Interfaces\obj\Debug\Demo.CarTrade.Interfaces.csproj.CoreCompileInputs.cache
+C:\TEMP\Demo.CarTrade\Demo.CarTrade.Interfaces\obj\Debug\Demo.CarTrade.Interfaces.dll
+C:\TEMP\Demo.CarTrade\Demo.CarTrade.Interfaces\obj\Debug\Demo.CarTrade.Interfaces.pdb
+C:\backup\Demo.CarTrade\Demo.CarTrade.Interfaces\bin\Debug\Demo.CarTrade.Interfaces.dll
+C:\backup\Demo.CarTrade\Demo.CarTrade.Interfaces\bin\Debug\Demo.CarTrade.Interfaces.pdb
+C:\backup\Demo.CarTrade\Demo.CarTrade.Interfaces\bin\Debug\Demo.CarTrade.Entity.dll
+C:\backup\Demo.CarTrade\Demo.CarTrade.Interfaces\bin\Debug\Demo.CarTrade.Entity.pdb
+C:\backup\Demo.CarTrade\Demo.CarTrade.Interfaces\obj\Debug\Demo.CarTrade.Interfaces.csprojResolveAssemblyReference.cache
+C:\backup\Demo.CarTrade\Demo.CarTrade.Interfaces\obj\Debug\Demo.CarTrade.Interfaces.csproj.CoreCompileInputs.cache
+C:\backup\Demo.CarTrade\Demo.CarTrade.Interfaces\obj\Debug\Demo.CarTrade.Interfaces.dll
+C:\backup\Demo.CarTrade\Demo.CarTrade.Interfaces\obj\Debug\Demo.CarTrade.Interfaces.pdb

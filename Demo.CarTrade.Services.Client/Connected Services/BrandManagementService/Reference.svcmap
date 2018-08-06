@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="66acbbc1-5fa3-4e21-88aa-56bde8b32627" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:52918/BrandManagementService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BrandManagementService.wsdl" MetadataType="Wsdl" ID="6009e08e-3056-4024-8dc7-48fadb3054cf" SourceId="1" SourceUrl="http://localhost:52918/BrandManagementService.svc?wsdl" />
+    <MetadataFile FileName="BrandManagementService2.xsd" MetadataType="Schema" ID="0b22f434-5b95-4af3-88c3-8785f8e0ee5d" SourceId="1" SourceUrl="http://localhost:52918/BrandManagementService.svc?xsd=xsd2" />
+    <MetadataFile FileName="BrandManagementService.disco" MetadataType="Disco" ID="e74090b3-a0d0-42a1-a40e-b1b85f515619" SourceId="1" SourceUrl="http://localhost:52918/BrandManagementService.svc?disco" />
+    <MetadataFile FileName="BrandManagementService.xsd" MetadataType="Schema" ID="38c836f6-c427-419b-94f5-bbf3b05139d4" SourceId="1" SourceUrl="http://localhost:52918/BrandManagementService.svc?xsd=xsd1" />
+    <MetadataFile FileName="BrandManagementService1.xsd" MetadataType="Schema" ID="2cafa16d-c2ad-4acc-922a-abd1f30763ee" SourceId="1" SourceUrl="http://localhost:52918/BrandManagementService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

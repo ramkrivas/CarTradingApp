@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Demo.CarTrade.Services.BrandManagementService, Demo.CarTrade.Services"  CodeBehind="BrandManagementService.svc.cs" Factory="Autofac.Integration.Wcf.AutofacServiceHostFactory, Autofac.Integration.Wcf" %>
